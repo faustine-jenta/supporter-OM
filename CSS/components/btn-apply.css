@@ -1,0 +1,11 @@
+#btn-apply {
+	background-color: #0C97D1;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "Roboto", sans-serif;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	 margin: 10px;
+}
